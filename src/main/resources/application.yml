@@ -4,9 +4,9 @@ spring:
       ddl-auto: validate
   datasource:
     platform: postgres
-    url: jdbc:postgresql://localhost:5432/kindle_sideload
-    username: kindle_sideload
-    password: kindle_sideload
+    url: jdbc:postgresql://localhost:5432/template_telegram_bot
+    username: template_telegram_bot
+    password: template_telegram_bot
     driverClassName: org.postgresql.Driver
 
 telegram:
