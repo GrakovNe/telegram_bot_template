@@ -9,9 +9,6 @@ spring:
     password: kindle_sideload
     driverClassName: org.postgresql.Driver
 
-periodic:
-  payment-cache-ttl-minutes: 5
-
 telegram:
   token: 6586219940:AAH2ic2kDtHzVgJGl4_fOhhlqrl6P54Bl0g
   level: DEBUG
